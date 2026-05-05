@@ -2,8 +2,6 @@
 
 A desktop application for encrypting and decrypting files using AES-256, built with Python.
 
-![File Encryptor Screenshot](screenshot_app.png)
-
 ---
 
 ## How It Works
@@ -106,13 +104,6 @@ file-encryptor/
 ├── test_crypto.py    # AES encryption test script
 └── README.md
 ```
-
----
-
-## Author
-
-**Sergio Nunez** — Computer Engineering, B.S.
-[GitHub](https://github.com/MaxsCaretaker) | [LinkedIn](https://linkedin.com/in/sergio-nunez)
 
 ---
 
